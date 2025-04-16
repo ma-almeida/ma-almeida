@@ -1,7 +1,7 @@
 ## Oiiee :) Me chamo Marcella, seja muito bem-vindo! 
 
 - 📚 Estudando Python e MySQL
-- 😄 Pronouns: ela/dela
+  
 
 ###
 
